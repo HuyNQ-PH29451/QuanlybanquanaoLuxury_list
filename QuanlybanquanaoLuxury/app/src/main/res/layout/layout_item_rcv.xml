@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:text="$1000"
         android:textSize="20dp"
-
+    android:layout_margin="10dp"
         android:textColor="#2C8E30"
         android:layout_gravity="center"
         android:id="@+id/tv02"/>
